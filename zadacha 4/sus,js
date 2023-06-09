@@ -1,0 +1,9 @@
+    let a = prompt('1');
+	let b = prompt('2');
+	let c = prompt('3'); 
+    var e = a + b + c;
+    var t = a * b * c;
+	var o = a - b - c;
+	console.log(e);
+    console.log(o);
+    console.log(t);
